@@ -1,11 +1,11 @@
 {
-  "homepage": "https://Amal605.github.io/DevFolio-Project",
+  "homepage": "https://amal605.github.io/devFolio-project",
   "name": "devopro",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm run build",
+"predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
